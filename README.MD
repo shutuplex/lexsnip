@@ -1,7 +1,7 @@
 # LEXSNIP
 
 <div align="center">
-  <img src="https://files.catbox.moe/vpmv4q.jpg" alt="LEXSNIP Logo" width="100%" />
+  <img src="https://files.catbox.moe/s88jj1.gif" alt="LEXSNIP Logo" width="100%" />
   <br />
   <p><strong>A modern, IDE-like code sharing workspace powered by AI.</strong></p>
 
