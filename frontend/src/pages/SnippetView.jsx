@@ -5,7 +5,7 @@ import { vscDarkPlus } from 'react-syntax-highlighter/dist/esm/styles/prism';
 import JSZip from 'jszip';
 import { saveAs } from 'file-saver';
 
-/* ─── Global styles (same design token system as CreateSnippet) ─── */
+/* ─── styles (same design token system as CreateSnippet) ─── */
 const GLOBAL_STYLES = `
   @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600&family=Outfit:wght@300;400;500;600;700&display=swap');
 
